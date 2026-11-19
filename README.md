@@ -1,5 +1,7 @@
 # Cartwise
 
+[![CI](https://github.com/punia008/cartwise/actions/workflows/ci.yml/badge.svg)](https://github.com/punia008/cartwise/actions/workflows/ci.yml)
+
 An offline-first shopping app for Android, built with Kotlin and Jetpack Compose.
 Browse a paged product catalog that keeps working without a network, and build a cart
 priced by a tested promotions engine (multi-buy and order-level offers).
